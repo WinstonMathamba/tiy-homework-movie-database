@@ -1,3 +1,6 @@
+--Using INSERT command to add a row to movie table
+
+
 INSERT INTO movie
 (
 titleid,

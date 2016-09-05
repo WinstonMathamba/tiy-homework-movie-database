@@ -1,3 +1,5 @@
+--Using INSERT command to add a person
+
 INSERT INTO person
 (
   personid,
