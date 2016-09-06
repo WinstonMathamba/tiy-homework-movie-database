@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3111be0c-61ee-4b6f-bbd2-ec128d223420" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DELETE_movie_wd.sql" afterPath="$PROJECT_DIR$/15SQL Commands/DELETE_movie_wd.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DELETE_person_MT.sql" afterPath="$PROJECT_DIR$/15SQL Commands/DELETE_person_MT.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DELETE_person_hill.sql" afterPath="$PROJECT_DIR$/15SQL Commands/DELETE_person_hill.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Insert_JH_Perons.sql" afterPath="$PROJECT_DIR$/15SQL Commands/Insert_JH_Perons.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Insert_MT_person.sql" afterPath="$PROJECT_DIR$/15SQL Commands/Insert_MT_person.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Insert_WD_Movie.sql" afterPath="$PROJECT_DIR$/15SQL Commands/Insert_WD_Movie.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SELECT_allJohns.sql" afterPath="$PROJECT_DIR$/15SQL Commands/SELECT_allJohns.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SELECT_kubrik.sql" afterPath="$PROJECT_DIR$/15SQL Commands/SELECT_kubrik.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SELECT_wColumns.sql" afterPath="$PROJECT_DIR$/15SQL Commands/SELECT_wColumns.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Update_movie_wd.sql" afterPath="$PROJECT_DIR$/15SQL Commands/Update_movie_wd.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Update_person_MT.sql" afterPath="$PROJECT_DIR$/15SQL Commands/Update_person_MT.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Update_person_middle.sql" afterPath="$PROJECT_DIR$/15SQL Commands/Update_person_middle.sql" />
-    </list>
+    <list default="true" id="3111be0c-61ee-4b6f-bbd2-ec128d223420" name="Default" comment="" />
     <ignored path="tiy-homework-movie-database.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -677,12 +664,12 @@
       <updated>1472577583694</updated>
       <workItem from="1472577584883" duration="29514000" />
       <workItem from="1472827713638" duration="86000" />
-      <workItem from="1472827838586" duration="19903000" />
+      <workItem from="1472827838586" duration="20085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49503000" />
+    <option name="totallyTimeSpent" value="49685000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
